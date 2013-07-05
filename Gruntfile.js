@@ -1,7 +1,7 @@
 module.exports = function(grunt) {
 
   var globalConfig = {
-    scripts: ['*.js', 'lib/**/*.js']
+    scripts: ['*.js', 'lib/**/*.js', 'bin/**/*.js']
   };
 
   // Project configuration
