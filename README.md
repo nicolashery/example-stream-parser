@@ -2,6 +2,8 @@
 
 An example Node.js streaming data file parser.
 
+See: [http://nicolashery.com/parse-data-files-using-nodejs-streams/](http://nicolashery.com/parse-data-files-using-nodejs-streams/).
+
 Turns this:
 
 ```
